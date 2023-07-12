@@ -4,13 +4,13 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Xcalibur+ by Joker-V2
+kernel.string=Exorcist by FireFly09
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=violet
+device.name1=miatoll
 device.name2=
 device.name3=
 device.name4=
